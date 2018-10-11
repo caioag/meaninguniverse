@@ -6,13 +6,13 @@ body {
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;	
+	flex-direction: column;
 }
 
 .whale {
 	height:10%;
 	width:10%;
-	padding-bottom: 300px;
-	position: absolute;
+	margin-bottom: 50px;
 }
 
 .loading {
